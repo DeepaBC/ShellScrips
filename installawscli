@@ -1,0 +1,36 @@
+867  curl -O https://bootstrap.pypa.io/get-pip.py
+  868  python get-pip.py –user
+  869  python get-pip.py –-user
+  870  python get-pip.py --user
+  871  export PATH=~/.local/bin:$PATH
+  872  source ~/.profile
+  873  source ~/.bash_profile
+  874  pip –-version
+  875  pip –version
+  876  pip3 --version
+  877  pip --version
+  878  aws --version
+  879  pip install awscli –upgrade –user
+  880  pip install awscli –-upgrade –-user
+  881  pip install awscli --upgrade --user
+  882  aws --version
+  883  clear
+  884  aws configure
+  885  ls  ~/.aws
+  886  ls  ~/.aws/config
+  887  ls  ~/.aws/credentials
+  888  cat  ~/.aws/credentials
+  889  cat  ~/.aws/config
+  890  aws s3
+  891  aws s3 ls
+  892  aws configure
+  893  cd ..
+  894  dc
+  895  cd
+  896  cat  ~/.aws/config
+  897  vi  ~/.aws/config
+  898  cat  ~/.aws/config
+  899  aws s3 ls
+  900  vi  ~/.aws/config
+  901  aws s3 ls
+
