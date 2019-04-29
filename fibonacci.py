@@ -1,4 +1,5 @@
-num=int(input("enter number:"))
+#num=int(input("enter number:"))
+num=5
 i=0
 fn=0
 sn=1
